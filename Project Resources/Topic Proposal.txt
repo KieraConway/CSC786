@@ -1,0 +1,19 @@
+CSC 786 - Topic Proposal
+
+Dr. Xu, 
+
+My name is Kiera Conway, and I am currently enrolled in your CSC786 course. I am reaching out to seek your approval for a potential topic and research problem I have selected.
+
+For the research project this semester, I would like to select Project Option 2: Practical Research and focus my topic on exploring buffer overflow vulnerabilities and mitigations, including a practical analysis of stack cookies, Data Execution Prevention (DEP), and Address Space Layout Randomization (ASLR). My problem statement for this topic will be: To what extent do Stack Cookies, DEP, and ASLR mitigate buffer overflow vulnerabilities in real-world software applications, and what methods can attackers employ to bypass these mitigations?
+
+
+As buffer overflows still remain a relevant threat, it is important to assess the effectiveness of these mitigations in practical scenarios. As such, my research objectives will include understanding how Stack Cookies, DEP, and ASLR work to prevent buffer overflow exploits, evaluating the mitigations' effectiveness, investigating potential techniques which attackers may use to bypass them, and develop practical demonstrations to illustrate these mitigations and the techniques used by attackers to bypass them.
+
+
+Overall, the project will include a comprehensive analysis of the the pervasiveness of buffer overflow attacks despite the various mitigations introduced over the last few decades. My hope is that this research will not only addresses the ongoing relevance of buffer overflow vulnerabilities, but contributes valuable insights for enhancing software security by showing the techniques used by attackers to circumvent these mitigations. 
+
+Please let me know if this an acceptable topic/ research problem for me to proceed with for Option 2.
+
+Thank you,
+
+Kiera Conway
