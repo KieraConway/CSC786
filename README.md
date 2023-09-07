@@ -4,7 +4,7 @@
 <h3> Research </h3>
 
 <i>Overview:</i> <br>
-- Buffer overflow vulnerabilities continue to pose a significant threat to software security. Security professionals have introduced various mitigations over the last two decades to enhance security and limit the usefulness of buffer overflows. A few examples of these mitigations include Stack Cookies, Data Execution Prevention (DEP), and Address Space Layout Randomization (ASLR). It is important to assess their effectiveness in practical scenarios as buffer overflows still remain a relevant threat. <br> <br>
+- Buffer overflow vulnerabilities continue to pose a significant threat to software security. Security professionals have introduced various mitigations over the last two decades to enhance security and reduce the impact of buffer overflows. A few examples of these mitigations include Stack Cookies, Data Execution Prevention (DEP), and Address Space Layout Randomization (ASLR). It is important to assess their effectiveness in practical scenarios as buffer overflows still remain a relevant threat. <br> <br>
 
 <i>Problem Statement:</i> <br>
 - How and to what extent do Stack Cookies, DEP, and ASLR mitigate buffer overflow vulnerabilities in real-world software applications, and what methods can attackers use potentially bypass them to exploit vulnerabilities? <br> <br>
