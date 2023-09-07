@@ -1,12 +1,14 @@
-Dr. Xu, 
+CSC 786 - Topic Proposal
 
-My name is Kiera Conway, and I am currently enrolled in your CSC786 course. I am reaching out to seek your approval for a potential topic and research problem I have selected.
+Good Afternoon Dr. Xu,
+
+My name is Kiera Conway, and I am currently enrolled in your CSC786 course. I am reaching out to seek your approval for the topic and research problem I have selected.
 
 For this semester's research project, I have selected Project Option 2: Practical Research. My focus will be on exploring buffer overflow vulnerabilities and their mitigations, with a practical analysis of Stack Cookies, Data Execution Prevention (DEP), and Address Space Layout Randomization (ASLR). My proposed problem statement is as follows: "To what extent do Stack Cookies, DEP, and ASLR mitigate buffer overflow vulnerabilities in real-world software applications, and what methods can attackers employ to bypass these mitigations?"
 
-As buffer overflows continue to pose a relevant security threat, my research will aim to assess the effectiveness of these mitigations in practical scenarios. To achieve this goal, my research objectives will attempt to understand how Stack Cookies, DEP, and ASLR function to prevent buffer overflow exploits, evaluate their effectiveness, investigate potential attacker techniques to bypass these mitigations, and implement practical demonstrations to illustrate these concepts.
+As buffer overflows persist as a pertinent security threat, my research will aim to assess the efficacy of these security measures in practical scenarios. To achieve this goal, my research objectives will attempt to understand how Stack Cookies, DEP, and ASLR operate to prevent buffer overflow exploits, evaluate their effectiveness, investigate potential attacker techniques to bypass these safeguards, and implement practical demonstrations to illustrate these concepts.
 
-Overall, my project will aim to provide a comprehensive analysis of the the pervasiveness of buffer overflow attacks despite the introduction of various mitigations over the past few decades. I believe that this research will not only addresses the ongoing relevance of buffer overflow vulnerabilities, but will also contribute valuable insights into enhancing software security by showing popular techniques used to circumvent these mitigations. By understanding the limitations and potential bypass techniques, software developers and security professionals can make informed decisions to enhance the security of their applications.
+Overall, my project will aim to provide a comprehensive analysis on the pervasiveness of buffer overflow attacks despite the introduction of various countermeasures over the past few decades. I believe that this research will not only address the ongoing relevance of buffer overflow vulnerabilities, but will also contribute valuable insights into enhancing software security by showing popular techniques used to circumvent these mitigations. By understanding the limitations and potential bypass techniques, security professionals and software developers can make informed decisions to enhance their security.
 
 Please let me know if this topic and research problem for Option 2 align with the course requirements and if I may proceed accordingly.
 
