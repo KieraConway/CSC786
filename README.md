@@ -1,19 +1,28 @@
 <h1 align="center"> CSC 786 - Cyber Problems </h1>
-<h2 align="center"> Exploring Buffer Overflow Vulnerabilities and Mitigations: <br>A Practical Analysis of Stack Cookies, DEP, and ASLR <br></h2>
+<h2 align="center"> AI for Penetration Testing: <br> Exploring the Intersection of Artificial Intelligence and Cybersecurity <br></h2>
 
-<h3> Research </h3>
+
+<h3> Course Overview </h3>
 
 <i>Overview:</i> <br>
-- Buffer overflow vulnerabilities continue to pose a significant threat to software security. Security professionals have introduced various mitigations over the last two decades to enhance security and reduce the impact of buffer overflows. A few examples of these mitigations include Stack Cookies, Data Execution Prevention (DEP), and Address Space Layout Randomization (ASLR). It is important to assess their effectiveness in practical scenarios as buffer overflows still remain a relevant threat. <br> <br>
+- In today's rapidly evolving cybersecurity landscape, artificial intelligence (AI) has become a critical tool for penetration testers and security professionals. This course plans to delve into the integration of AI techniques, including machine learning and potentially deep learning, into the practice of penetration testing. It explores how AI can enhance the efficiency and effectiveness of security assessments, threat detection, and vulnerability identification. <br> <br>
 
-<i>Problem Statement:</i> <br>
-- How and to what extent do Stack Cookies, DEP, and ASLR mitigate buffer overflow vulnerabilities in real-world software applications, and what methods can attackers use potentially bypass them to exploit vulnerabilities? <br> <br>
+<i>Course Objectives:</i> <br>
+- Understand the fundamentals of artificial intelligence and its relevance in cybersecurity <br>
+- Explore AI-driven penetration testing techniques and tools <br>
+- Learn how machine learning models can be trained to identify vulnerabilities and threats <br>
+- Gain hands-on experience in applying AI to real-world penetration testing scenarios <br> <br>
 
-<i>Research Objectives:</i> <br>
-- Understand how Stack Cookies, DEP, and ASLR work to prevent buffer overflow exploits <br>
-- Evaluate their mitigation effectiveness <br>
-- Investigate potential techniques that attackers may use to bypass these mitigations <br>
-- Develop practical demonstrations to illustrate these mitigations and the techniques used by attackers to bypass them <br> <br>
+<h3> Course Structure </h3>
+
+<i>TBD</i> <br>
+<br> <br>
+
+<h3> Course Benefits </h3>
+
+- Gain a deep understanding of AI's role in penetration testing and cybersecurity
+- Hands-on experience with AI-driven penetration testing tools and techniques
+- Practical skills for identifying vulnerabilities, threats, and security weaknesses
 
 <br>
 
@@ -23,9 +32,9 @@
 
 > Writing
 >
-> Submit a 1-page report outlining the background of the existing research discovery you <br>
-> intend to replicate/reproduce in security or AI research areas. Clearly state the research<br>
-> problem, its relevance, significance, and why you chose this particular discovery.<br>
+> Submit a 1-page report outlining the background of your chosen course topic. Clearly state<br>
+> the research problem or theme you intend to explore in your course, including its relevance,<br>
+> significance, and potential impact.<br>
 >
 > <sub><i>Indicate selected project option within assignment <br>
 > Submit your work in .pdf format <br></i></sub>
@@ -37,9 +46,9 @@
 
 > Writing
 >
-> Conduct an initial literature review related to the research discovery you are replicating.<br>
-> Summarize at least 5 key research papers or articles, highlighting their main findings,<br>
-> methodologies, and relevance to your replication project.<br>
+> Conduct an initial literature review related to your chosen course topic. Summarize at least 5<br>
+> key research papers or articles, highlighting their main findings, methodologies, and relevance<br>
+> to your course content.<br>
 >
 > <sub><i> Select one paper used in this assignment to complete Homework 3 and 4 <br>
 > Please follow the [IEEE Reference Files](url) for formatting <br></i></sub>
@@ -49,10 +58,10 @@
 
 > Speaking
 >
-> Prepare and deliver an oral presentation summarizing the initial literature review<br>
-> conducted in Homework 2 related to the research discovery you are replicating. <br>
-> Highlight key research papers, findings, methodologies, and relevance. Discuss<br>
-> how these works inform your replication project. Include visual aids for clarity.
+> Prepare and deliver an oral presentation summarizing the initial literature review conducted in<br>
+> Homework 2 related to your chosen course topic. Highlight key research papers, findings,<br>
+> methodologies, and relevance to your course content. Discuss how these works inform your<br>
+> course development. Include visual aids for clarity.<br>
 >
 > <sub><i> There will be an available upload link </i></sub>
 <br><br>
@@ -62,10 +71,9 @@
 
 > Writing
 >
-> Formulate the research problem for replication and propose a detailed technical <br>
-> implementation plan. Include the coding, software/tool/library implementation, or <br>
-> dataset collection strategies. Provide a rationale for your chosen approach and how <br>
-> it aligns with the original research discovery.<br>
+> Extend your literature review with additional insights and research investigation. Record at<br>
+> least two introductory lectures for your course, ensuring they are engaging, clear, and aligned<br>
+> with the approved course topic.<br>
 >
 > <sub><i> Refer to Homework 2 for paper selection <br>
 > Please follow the [IEEE Reference Files](url) for formatting <br></i></sub>
@@ -76,11 +84,10 @@
 
 > Speaking
 >
-> Prepare and deliver an oral presentation describing the problem formulation and <br>
-> technical implementation plan from Homework 3. Detail the coding, software/ tool/ <br>
-> library implementation, or dataset collection strategies. Explain the rationale for your <br>
->  chosen approach and alignment with the original research discovery. Use visual aids <br>
-> to enhance understanding.
+> Prepare and deliver an oral presentation describing the extended literature review and initial<br>
+> course recordings from Homework 3. Detail the course outline, design, introductory lectures,<br>
+> and alignment with the approved topic. Reflect on the development process, challenges, and<br>
+> engagement strategies. Use visual aids to enhance understanding.<br>
 >
 > <sub><i> An upload link will be provided for submission</i></sub>
 <br><br>
@@ -89,12 +96,12 @@
 
 > Writing
 > 
-> Based on the problem formulation and technical implementation plan developed in <br>
-> previous assignments, proceed with the coding, software/tool/library implementation,<br>
-> or dataset collection in security or AI research areas. Replicate/reproduce the existing <br>
-> research discoveries as planned. Provide a comprehensive report detailing the <br>
-> implementation process, results, challenges, and insights. Include a reflection on the<br>
-> relevance and application of the replicated discovery.<br>
+> Based on the extended literature review and initial course recordings developed in previous<br>
+> assignments, complete the development of the Udemy-like online short course on the<br>
+> approved topic. Record the remaining lectures, create supplementary materials, visual aids,<br>
+> and any additional resources. Ensure that the course is well-structured, engaging, and adheres<br>
+> to high educational standards. Include a reflection on the course development process,<br>
+> challenges faced, and potential future improvements.<br>
 >
 > <sub><i> Refer to Homework 2 for paper selection <br>
 > Please follow the [IEEE Reference Files](url) for formatting <br></i></sub>
@@ -104,21 +111,20 @@
 
 > Speaking
 >
-> Prepare and deliver an oral presentation detailing the technical implementation and<br> 
-> reproduction process from Homework 4. Discuss the implementation, results, challenges,<br> 
-> insights, and relevance to security or AI research areas. Reflect on the process and its<br> 
-> practical application. Utilize visual aids to support your presentation.
+> Prepare and deliver an oral presentation detailing the complete course development and<br>
+> recordings from Homework 4. Discuss the remaining lectures, supplementary materials, visual<br>
+> aids, educational standards, and potential future improvements. Reflect on the overall course<br>
+> development process and its relevance to teaching and training activities. Utilize visual aids to<br>
+> support your presentation.<br>
 >
 > <sub><i> An upload link will be provided for submission</i></sub>
 <br><br>
 
 - [ ] <b> Due 12/08/23 &emsp;|&emsp; Final Deliverable<br> </b>
 
-
-> Submit the final replication project, including all code, tools, datasets, and a <br>
-> comprehensive report detailing the replication process, results, challenges, and <br>
-> insights. Include a reflection on the relevance and application of the replicated<br>
-> discovery.<br>
+> Submit the complete set of course recordings, including all lectures, supplementary materials,<br>
+> visual aids, and any additional resources. Ensure that the course is well-structured, engaging,<br>
+> and adheres to high educational standards.<br>
 <br><br>
 
 [View Grading Rubric](https://github.com/KieraConway/CSC786/blob/main/Project%20Resources/README.md) 
