@@ -1,17 +1,8 @@
 <h1 align="center"> Homework 1: Research Problem Background and Investigation </h1>
 
 <h2 align="center">Instructions</h2>
-<h3>Project Option 1: Independent Research Exploration</h3>
 
-> Submit a 1-page report outlining the background of your chosen research problem in the cyber domain. Clearly state the research problem you intend to investigate, including its relevance, significance, and potential impact. Include any preliminary ideas or hypotheses you may have.
-
-<h3>Project Option 2: Practical Research</h3>
-
-> Submit a 1-page report outlining the background of the existing research discovery you intend to replicate/reproduce in security or AI research areas. Clearly state the research problem, its relevance, significance, and why you chose this particular discovery.
-
-<h3>Project Option 3: Short Seminar Course Development</h3>
-
-> Submit a 1-page report outlining the background of your chosen course topic. Clearly state the research problem or theme you intend to explore in your course, including its relevance, significance, and potential impact.
+Submit a 1-page report outlining the background of your chosen course topic. Clearly state the research problem or theme you intend to explore in your course, including its relevance, significance, and potential impact.
 <br><br>
 
 <h2 align="center">Assignment Notes</h2>
