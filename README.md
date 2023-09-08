@@ -28,9 +28,10 @@
 > problem, its relevance, significance, and why you chose this particular discovery.<br>
 >
 > <sub><i>Indicate selected project option within assignment <br>
-> Submit your work in .pdf format <br>
-> Grading rubric located in Module 1 - "Topics, Assignments, and Grading Rubrics"</i></sub>
+> Submit your work in .pdf format <br></i></sub>
 <br><br>
+
+
 
 - [ ] <b> Due 09/29/23 &emsp;|&emsp; Homework 2: Initial Literature Review<br> </b>
 
@@ -41,8 +42,7 @@
 > methodologies, and relevance to your replication project.<br>
 >
 > <sub><i> Select one paper used in this assignment to complete Homework 3 and 4 <br>
-> Please follow the [IEEE Reference Files](url) for formatting <br>
-> Grading rubric located in Module 1 - "Topics, Assignments, and Grading Rubrics"</i></sub>
+> Please follow the [IEEE Reference Files](url) for formatting <br></i></sub>
 <br><br>
 
 - [ ] <b> Due 10/01/23 &emsp;|&emsp; Presentation 1: Literature Review Presentation<br> </b>
@@ -68,8 +68,7 @@
 > it aligns with the original research discovery.<br>
 >
 > <sub><i> Refer to Homework 2 for paper selection <br>
-> Please follow the [IEEE Reference Files](url) for formatting <br>
-> Grading rubric located in Module 1 - "Topics, Assignments, and Grading Rubrics"</i></sub>
+> Please follow the [IEEE Reference Files](url) for formatting <br></i></sub>
 <br><br>
 
 
@@ -98,8 +97,7 @@
 > relevance and application of the replicated discovery.<br>
 >
 > <sub><i> Refer to Homework 2 for paper selection <br>
-> Please follow the [IEEE Reference Files](url) for formatting <br>
-> Grading rubric located in Module 1 - "Topics, Assignments, and Grading Rubrics"</i></sub>
+> Please follow the [IEEE Reference Files](url) for formatting <br></i></sub>
 <br><br>
 
 - [ ] <b> Due 11/30/23 &emsp;|&emsp; Presentation 3: Technical Implementation Presentation <br> </b>
@@ -121,3 +119,6 @@
 > comprehensive report detailing the replication process, results, challenges, and <br>
 > insights. Include a reflection on the relevance and application of the replicated<br>
 > discovery.<br>
+<br><br>
+
+[View Grading Rubric](https://github.com/KieraConway/CSC786/blob/main/Project%20Resources/README.md) 
