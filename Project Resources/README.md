@@ -1,30 +1,29 @@
 <h1 align="center"> Grading Rubric </h1>
-<h2 align="center"> Option 2: Project on Practical Research <br></h2>
+<h2 align="center"> Option 3: Project on Short Seminar Course Development <br></h2>
+
+<h3> Course Design and Content (30%)</h3>
+
+> - Well-structured course outline and design.
+> - Original and novel content.
+> - Alignment with the approved course topic.<br><br>
 
 
-<h3> Replication and Reproducibility (30%)</h3>
+<h3> Literature Review and Research Investigation (30%)</h3>
 
-> - Successful replication of existing research discoveries.
-> - Clear documentation of the replication process.
-> - Evidence of reproducibility and consistency. <br><br>
-
-
-<h3>Technical Implementation (30%)</h3>
-
-> - Quality of coding, software/tool/library implementation.
-> - Functionality and efficiency of the developed solution.
-> - Adherence to best practices in security or AI research areas.<br><br>
+> - Comprehensive review of existing literature on the topic.
+> - Thorough research investigation to support course content.
+> - Integration of current trends and insights.<br><br>
 
 
-<h3>Research Investigation and Documentation (20%)</h3>
+<h3> Presentation and Delivery (20%)</h3>
 
-> - Comprehensive review of the original research.
-> - Clear methodology for replication.
-> - Thorough documentation of the process and findings.<br><br>
+> - Quality of recorded lectures or presentations.
+> - Clarity and engagement in delivery.
+> - Effective use of visual aids and supplementary materials.<br><br>
 
 
-<h3>Practical Relevance and Application (20%)</h3>
+<h3> Relevance and Impact (20%)</h3>
 
-> - Relevance to the broader field of security or AI.
-> - Potential application in real-world scenarios.
-> - Contribution to the existing body of knowledge.<br><br>
+> - Relevance to the broader field and potential audience.
+> - Potential impact on teaching and training activities.
+> - Alignment with the goals of a university, business organization, speaking event, or research lab.<br><br>
