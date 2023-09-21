@@ -9,7 +9,7 @@ papers or articles, highlighting their main findings, methodologies, and relevan
 <h2 align="center">Assignment Notes</h2>
 
 
-- Review [Submission Requirements](https://github.com/KieraConway/CSC786/blob/main/Homework%202%20-%20Initial%20Literature%20Review/HW2%20Template.pdf)
+- Review [Submission Requirements](https://github.com/KieraConway/CSC786/blob/main/Homework%202%20-%20Initial%20Literature%20Review/HW2%20Submission%20Requirements.pdf)
 - Ensure writing is academic and formal, avoid first-person perspective
 - When citing others' work, paraphrase and rewrite their study to avoid plagiarism
 - Submit your work in one single pdf file (Do not submit multiple files) 
