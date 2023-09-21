@@ -28,7 +28,7 @@
 
 <h3> Project Deadlines </h3>
 
-- [ ] <b> Due 09/08/23 &emsp;|&emsp; [Homework 1: Research Problem Background and Investigation](https://github.com/KieraConway/CSC786/tree/main/Homework%201%20-%20Research%20Problem%20Background%20and%20Investigation)<br> </b>
+- [X] <b> Due 09/08/23 &emsp;|&emsp; [Homework 1: Research Problem Background and Investigation](https://github.com/KieraConway/CSC786/tree/main/Homework%201%20-%20Research%20Problem%20Background%20and%20Investigation)<br> </b>
 
 > Writing
 >
