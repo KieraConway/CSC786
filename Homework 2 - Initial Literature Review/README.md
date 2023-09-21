@@ -9,7 +9,7 @@ papers or articles, highlighting their main findings, methodologies, and relevan
 <h2 align="center">Assignment Notes</h2>
 
 
-- Use the provided Submission Template
+- Review [Submission Requirements](https://github.com/KieraConway/CSC786/blob/main/Homework%202%20-%20Initial%20Literature%20Review/HW2%20Template.pdf)
 - Ensure writing is academic and formal, avoid first-person perspective
 - When citing others' work, paraphrase and rewrite their study to avoid plagiarism
 - Submit your work in one single pdf file (Do not submit multiple files) 
@@ -18,10 +18,8 @@ papers or articles, highlighting their main findings, methodologies, and relevan
 	- Refer to [IEEE Reference Materials](https://github.com/KieraConway/CSC786/tree/main/Project%20Resources/IEEE%20Reference%20Materials) for more information
 	- Utilize the [Example IEEE Template](https://github.com/KieraConway/CSC786/blob/main/Project%20Resources/IEEE%20Reference%20Materials/Example%20IEEE%20Template.doc)
 	- Failure to comply with these requirements may result in a 50% score reduction
-- [View Grading Rubric](https://github.com/KieraConway/CSC786/blob/main/Project%20Resources/README.md) 
+- [View Grading Rubric](https://github.com/KieraConway/CSC786/tree/main/Project%20Resources/Grading%20Rubric/README.md)
 <br><br>
-
-
 
 <h2 align="center">Assignment Tips</h2>
 
