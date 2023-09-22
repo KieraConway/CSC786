@@ -9,7 +9,7 @@ Submit a 1-page report outlining the background of your chosen course topic. Cle
 
 - Please submit your work in one single pdf file. (Do not submit multiple files.) 
 - Please also leave a message in the text box indicating the project option you choose.
-- [View Grading Rubric](https://github.com/KieraConway/CSC786/blob/main/Project%20Resources/README.md) 
+- [View Grading Rubric](https://github.com/KieraConway/CSC786/tree/main/Project%20Resources/Grading%20Rubric/README.md)
 <br><br>
 
 <h2 align="center">Assignment Tips</h2>
