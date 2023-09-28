@@ -1,5 +1,6 @@
-*.tmp
-*/~*.docx
-*/~*.pptx
-Code/scratch.py
-scratch.txt
+**/*.tmp
+**/~*.doc
+**/~*.docx
+**/~*.pptx
+**/scratch.py
+**/scratch.txt
