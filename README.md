@@ -42,7 +42,7 @@
 
 
 
-- [ ] <b> Due 09/29/23 &emsp;|&emsp; Homework 2: Initial Literature Review<br> </b>
+- [X] <b> Due 09/29/23 &emsp;|&emsp; Homework 2: Initial Literature Review<br> </b>
 
 > Writing
 >
@@ -54,7 +54,7 @@
 > Please follow the [IEEE Reference Files](url) for formatting <br></i></sub>
 <br><br>
 
-- [ ] <b> Due 10/01/23 &emsp;|&emsp; Presentation 1: Literature Review Presentation<br> </b>
+- [X] <b> Due 10/01/23 &emsp;|&emsp; Presentation 1: Literature Review Presentation<br> </b>
 
 > Speaking
 >
@@ -67,7 +67,7 @@
 <br><br>
 
 
-- [ ] <b> Due 10/27/23 &emsp;|&emsp; Homework 3: Problem Formulation and Technical Implementation Plan <br> </b>
+- [X] <b> Due 10/27/23 &emsp;|&emsp; Homework 3: Problem Formulation and Technical Implementation Plan <br> </b>
 
 > Writing
 >
@@ -80,7 +80,7 @@
 <br><br>
 
 
-- [ ] <b> Due 10/29/23 &emsp;|&emsp; Presentation 2: Problem Formulation Presentation<br> </b>
+- [X] <b> Due 10/29/23 &emsp;|&emsp; Presentation 2: Problem Formulation Presentation<br> </b>
 
 > Speaking
 >
