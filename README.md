@@ -13,10 +13,6 @@
 - Learn how machine learning models can be trained to identify vulnerabilities and threats <br>
 - Gain hands-on experience in applying AI to real-world penetration testing scenarios <br> <br>
 
-<h3> Course Structure </h3>
-
-<i>TBD</i> <br>
-<br> <br>
 
 <h3> Course Benefits </h3>
 
