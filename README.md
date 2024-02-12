@@ -92,7 +92,7 @@
 > <sub><i> An upload link will be provided for submission</i></sub>
 <br><br>
 
-- [ ] <b> Due 11/28/23 &emsp;|&emsp; Homework 4: Technical Implementation and Reproduction <br> </b>
+- [X] <b> Due 11/28/23 &emsp;|&emsp; Homework 4: Technical Implementation and Reproduction <br> </b>
 
 > Writing
 > 
@@ -107,7 +107,7 @@
 > Please follow the [IEEE Reference Files](url) for formatting <br></i></sub>
 <br><br>
 
-- [ ] <b> Due 11/30/23 &emsp;|&emsp; Presentation 3: Technical Implementation Presentation <br> </b>
+- [X] <b> Due 11/30/23 &emsp;|&emsp; Presentation 3: Technical Implementation Presentation <br> </b>
 
 > Speaking
 >
@@ -120,7 +120,7 @@
 > <sub><i> An upload link will be provided for submission</i></sub>
 <br><br>
 
-- [ ] <b> Due 12/08/23 &emsp;|&emsp; Final Deliverable<br> </b>
+- [X] <b> Due 12/08/23 &emsp;|&emsp; Final Deliverable<br> </b>
 
 > Submit the complete set of course recordings, including all lectures, supplementary materials,<br>
 > visual aids, and any additional resources. Ensure that the course is well-structured, engaging,<br>
