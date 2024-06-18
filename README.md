@@ -13,10 +13,6 @@
 - Learn how machine learning models can be trained to identify vulnerabilities and threats <br>
 - Gain hands-on experience in applying AI to real-world penetration testing scenarios <br> <br>
 
-<h3> Course Structure </h3>
-
-<i>TBD</i> <br>
-<br> <br>
 
 <h3> Course Benefits </h3>
 
@@ -120,7 +116,7 @@
 > <sub><i> An upload link will be provided for submission</i></sub>
 <br><br>
 
-- [ ] <b> Due 12/08/23 &emsp;|&emsp; Final Deliverable<br> </b>
+- [X] <b> Due 12/08/23 &emsp;|&emsp; Final Deliverable<br> </b>
 
 > Submit the complete set of course recordings, including all lectures, supplementary materials,<br>
 > visual aids, and any additional resources. Ensure that the course is well-structured, engaging,<br>
